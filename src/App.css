@@ -1,0 +1,15 @@
+input,
+button {
+  outline: none;
+  border: 2px solid #8e8e8e;
+}
+
+td {
+  border-bottom: 2px solid #8e8e8e;
+}
+table {
+  border-collapse: collapse;
+}
+button {
+  cursor: pointer;
+}
